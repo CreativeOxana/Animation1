@@ -5,17 +5,17 @@ body {
   justify-content: center;
   height: 100vh;
   font-family: verdana;
-  background-color: #870090;
+  background-color: #222;
 }
 
 a {
   text-decoration: none;
   text-transform: uppercase;
   font-size: 25px;
-  color: #02650d;
+  color: #f6b93b;
   letter-spacing: 3px;
   padding: 25px 50px;
-  border: 3px solid #02650d;
+  border: 3px solid #f6b93b;
   transition: all 0.5%;
   position: relative;
   overflow: hidden;
@@ -29,7 +29,7 @@ span:after {
   position: absolute;
   width: 25%;
   height: 100%;
-  background-color: #02650d;
+  background-color: #f6b93b;
   z-index: -1;
   transition: all 0.2s;
 }
@@ -78,5 +78,5 @@ a:hover span:after {
 }
 
 a:hover {
-  color: #870090;
+  color: #222;
 }
