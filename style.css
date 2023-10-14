@@ -10,6 +10,7 @@ body {
 
 a {
   text-decoration: none;
+  text-decoration-style: solid;
   text-transform: uppercase;
   font-size: 25px;
   color: #f6b93b;
