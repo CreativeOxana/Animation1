@@ -5,7 +5,7 @@ body {
   justify-content: center;
   height: 100vh;
   font-family: verdana;
-  background-color: #222;
+  background-color: #870090;
 }
 
 a {
@@ -78,5 +78,5 @@ a:hover span:after {
 }
 
 a:hover {
-  color: white;
+  color: #870090;
 }
