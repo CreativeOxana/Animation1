@@ -10,9 +10,9 @@ body {
 
 a {
   text-decoration: none;
-  text-decoration-style: solid;
   text-transform: uppercase;
   font-size: 25px;
+  font-weight: bold;
   color: #f6b93b;
   letter-spacing: 3px;
   padding: 25px 50px;
